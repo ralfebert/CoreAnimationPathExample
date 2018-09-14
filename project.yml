@@ -1,0 +1,10 @@
+name: CoreAnimationPathExample
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    iOS: "10.0"
+targets:
+  CoreAnimationPathExample:
+    type: application
+    platform: iOS
+    sources: [CoreAnimationPathExample]
